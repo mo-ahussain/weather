@@ -4,4 +4,4 @@ Cloudy
 
 #another entry
 
-Sunny
+Sunny with showers
